@@ -3,7 +3,6 @@
 [More info react.i18next](https://react.i18next.com/)
 
 ## Author
-
 ✔ Eka Prasetia 🤵
 
 <a href="https://www.ekaprasetia.com/">
@@ -25,7 +24,6 @@
 ✔ Community
 
 I am author for two communities in Indonesia
-
-- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
-- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+- GatsbyJS Indonesia [Gatsby-ID](https://github.com/GatsbyJS-Indonesia)
+- RedwoodJS Indonesia [Redwood-ID](https://github.com/RedwoodJS-Indonesia)
 - NextJS Indonesia [Next.js-ID](https://github.com/NextJS-Indonesia)
